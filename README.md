@@ -1,4 +1,3 @@
-Step 1: Complete your code work by accessing the detailed assignment instructions in the provided Jupyter Notebook lab. You can access your lab by selecting "Begin Project". 
 
 1. Access the attached dataset in your lab or download for local use here:
 
